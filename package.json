@@ -1,0 +1,18 @@
+{
+  "name": "segelbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "segelfartyg",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.13.0",
+    "distube": "^4.0.4",
+    "nodemon": "^2.0.20",
+    "sodium": "^3.0.2"
+  }
+}
