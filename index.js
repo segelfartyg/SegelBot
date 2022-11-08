@@ -1,4 +1,3 @@
-//MTAzOTQ3ODkxODY5NDA1MTg1MA.GrhYgt.aEa5a9H7BBBQqxtj64wzk-pZJhNdUy9qVlZeuM
 const discord = require("discord.js")
 const client = new discord.Client({
     intents: [
