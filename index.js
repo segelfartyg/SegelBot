@@ -87,4 +87,5 @@ client.on("ready", client => {
 // client.DisTube.on("playSong", (queue, song) => {
 // queue.message.textChannel.send("NOW PLAYING: " + song.name)
 // })
+//pm2 stop server
 client.login("")
